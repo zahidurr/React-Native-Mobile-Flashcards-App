@@ -31,7 +31,7 @@
       "package": "com.zahidur.mobileflashcards",
       "versionCode": 1
     },
-    "description": "",
-    "githubUrl": ""
+    "description": "A React Native app for iOS, Android and Web that allows users to create decks cards and play quiz.",
+    "githubUrl": "https://github.com/zahidurr/React-Native-Mobile-Flashcards-App"
   }
 }

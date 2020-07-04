@@ -1,4 +1,4 @@
-## Mobile Flashcards
+## Play Quiz
 
 A React Native app for iOS, Android and Web that allows users to create decks cards and play quiz.
 

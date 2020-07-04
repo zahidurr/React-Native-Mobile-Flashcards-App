@@ -102,3 +102,13 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Macbook folder
+.DS_Store
+
+# React Native Build
+android/
+ios/
+.expo/
+.vscode/
+yarn.lock

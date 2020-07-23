@@ -1,9 +1,9 @@
 {
-  "name": "mobile-flashcards",
-  "displayName": "mobile-flashcards",
+  "name": "quizapp",
+  "displayName": "quizapp",
   "expo": {
-    "name": "mobile-flashcards",
-    "slug": "mobile-flashcards",
+    "name": "quizapp",
+    "slug": "quizapp",
     "privacy": "public",
     "sdkVersion": "38.0.0",
     "platforms": [
@@ -25,13 +25,15 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "me.zahidur.quizapp"
     },
     "android": {
-      "package": "com.zahidur.mobileflashcards",
+      "package": "me.zahidur.quizapp",
       "versionCode": 1
     },
     "description": "A React Native app for iOS, Android and Web that allows users to create decks cards and play quiz.",
-    "githubUrl": "https://github.com/zahidurr/React-Native-Mobile-Flashcards-App"
+    "githubUrl": "https://github.com/zahidurr/React-Native-Quiz-App",
+    "entryPoint": "node_modules/expo/AppEntry.js"
   }
 }

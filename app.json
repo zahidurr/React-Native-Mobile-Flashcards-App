@@ -5,7 +5,7 @@
     "name": "quizapp",
     "slug": "quizapp",
     "privacy": "public",
-    "sdkVersion": "38.0.0",
+    "sdkVersion": "38.0.1",
     "platforms": [
       "ios",
       "android",
@@ -16,7 +16,8 @@
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/img/splash/splash.png",
-      "resizeMode": "cover"
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
     },
     "updates": {
       "fallbackToCacheTimeout": 0

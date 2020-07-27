@@ -5,17 +5,17 @@
     "name": "quizapp",
     "slug": "quizapp",
     "privacy": "public",
-    "sdkVersion": "38.0.1",
+    "sdkVersion": "38.0.0",
     "platforms": [
       "ios",
       "android",
       "web"
     ],
-    "version": "1.0.0",
+    "version": "2.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
-      "image": "./assets/img/splash/splash.png",
+      "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#000000"
     },
@@ -31,7 +31,7 @@
     },
     "android": {
       "package": "me.zahidur.quizapp",
-      "versionCode": 1
+      "versionCode": 2
     },
     "description": "A React Native app for iOS, Android and Web that allows users to create decks cards and play quiz.",
     "githubUrl": "https://github.com/zahidurr/React-Native-Quiz-App",

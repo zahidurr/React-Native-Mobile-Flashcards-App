@@ -2,6 +2,10 @@
 
 A React Native app for iOS, Android and Web that allows users to create decks cards and play quiz.
 
+## Live Demo
+
+Google Play [link](https://play.google.com/store/apps/details?id=me.zahidur.quizapp)
+
 ### Prerequisites
 
 - Install `node`
